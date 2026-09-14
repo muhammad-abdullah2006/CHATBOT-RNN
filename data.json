@@ -1,0 +1,2002 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "answer": "New Delhi"
+    },
+    {
+        "question": "What is the capital of Pakistan?",
+        "answer": "Islamabad"
+    },
+    {
+        "question": "What is the capital of China?",
+        "answer": "Beijing"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "answer": "Tokyo"
+    },
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris"
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "answer": "Berlin"
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "answer": "Rome"
+    },
+    {
+        "question": "What is the capital of Spain?",
+        "answer": "Madrid"
+    },
+    {
+        "question": "What is the capital of Russia?",
+        "answer": "Moscow"
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "answer": "Ottawa"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "answer": "Canberra"
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "answer": "Brasilia"
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "answer": "Cairo"
+    },
+    {
+        "question": "What is the capital of Nigeria?",
+        "answer": "Abuja"
+    },
+    {
+        "question": "What is the capital of Kenya?",
+        "answer": "Nairobi"
+    },
+    {
+        "question": "What is the capital of South Africa?",
+        "answer": "Pretoria"
+    },
+    {
+        "question": "What is the capital of Saudi Arabia?",
+        "answer": "Riyadh"
+    },
+    {
+        "question": "What is the capital of United Arab Emirates?",
+        "answer": "Abu Dhabi"
+    },
+    {
+        "question": "What is the capital of Turkey?",
+        "answer": "Ankara"
+    },
+    {
+        "question": "What is the capital of Greece?",
+        "answer": "Athens"
+    },
+    {
+        "question": "What is the capital of Portugal?",
+        "answer": "Lisbon"
+    },
+    {
+        "question": "What is the capital of Netherlands?",
+        "answer": "Amsterdam"
+    },
+    {
+        "question": "What is the capital of Belgium?",
+        "answer": "Brussels"
+    },
+    {
+        "question": "What is the capital of Switzerland?",
+        "answer": "Bern"
+    },
+    {
+        "question": "What is the capital of Sweden?",
+        "answer": "Stockholm"
+    },
+    {
+        "question": "What is the capital of Norway?",
+        "answer": "Oslo"
+    },
+    {
+        "question": "What is the capital of Denmark?",
+        "answer": "Copenhagen"
+    },
+    {
+        "question": "What is the capital of Finland?",
+        "answer": "Helsinki"
+    },
+    {
+        "question": "What is the capital of Poland?",
+        "answer": "Warsaw"
+    },
+    {
+        "question": "What is the capital of Austria?",
+        "answer": "Vienna"
+    },
+    {
+        "question": "What is the capital of Ireland?",
+        "answer": "Dublin"
+    },
+    {
+        "question": "What is the capital of Iceland?",
+        "answer": "Reykjavik"
+    },
+    {
+        "question": "What is the capital of Mexico?",
+        "answer": "Mexico City"
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "answer": "Buenos Aires"
+    },
+    {
+        "question": "What is the capital of Chile?",
+        "answer": "Santiago"
+    },
+    {
+        "question": "What is the capital of Peru?",
+        "answer": "Lima"
+    },
+    {
+        "question": "What is the capital of Colombia?",
+        "answer": "Bogota"
+    },
+    {
+        "question": "What is the capital of Venezuela?",
+        "answer": "Caracas"
+    },
+    {
+        "question": "What is the capital of Cuba?",
+        "answer": "Havana"
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "answer": "Seoul"
+    },
+    {
+        "question": "What is the capital of North Korea?",
+        "answer": "Pyongyang"
+    },
+    {
+        "question": "What is the capital of Thailand?",
+        "answer": "Bangkok"
+    },
+    {
+        "question": "What is the capital of Vietnam?",
+        "answer": "Hanoi"
+    },
+    {
+        "question": "What is the capital of Indonesia?",
+        "answer": "Jakarta"
+    },
+    {
+        "question": "What is the capital of Malaysia?",
+        "answer": "Kuala Lumpur"
+    },
+    {
+        "question": "What is the capital of Singapore?",
+        "answer": "Singapore"
+    },
+    {
+        "question": "What is the capital of Philippines?",
+        "answer": "Manila"
+    },
+    {
+        "question": "What is the capital of Bangladesh?",
+        "answer": "Dhaka"
+    },
+    {
+        "question": "What is the capital of Sri Lanka?",
+        "answer": "Colombo"
+    },
+    {
+        "question": "What is the capital of Nepal?",
+        "answer": "Kathmandu"
+    },
+    {
+        "question": "What is the capital of Afghanistan?",
+        "answer": "Kabul"
+    },
+    {
+        "question": "What is the capital of Iran?",
+        "answer": "Tehran"
+    },
+    {
+        "question": "What is the capital of Iraq?",
+        "answer": "Baghdad"
+    },
+    {
+        "question": "What is the capital of Israel?",
+        "answer": "Jerusalem"
+    },
+    {
+        "question": "What is the capital of Jordan?",
+        "answer": "Amman"
+    },
+    {
+        "question": "What is the capital of Lebanon?",
+        "answer": "Beirut"
+    },
+    {
+        "question": "What is the capital of Syria?",
+        "answer": "Damascus"
+    },
+    {
+        "question": "What is the capital of Yemen?",
+        "answer": "Sanaa"
+    },
+    {
+        "question": "What is the capital of Qatar?",
+        "answer": "Doha"
+    },
+    {
+        "question": "What is the capital of Kuwait?",
+        "answer": "Kuwait City"
+    },
+    {
+        "question": "What is the capital of Oman?",
+        "answer": "Muscat"
+    },
+    {
+        "question": "What is the capital of Bahrain?",
+        "answer": "Manama"
+    },
+    {
+        "question": "What is the capital of Ukraine?",
+        "answer": "Kyiv"
+    },
+    {
+        "question": "What is the capital of Belarus?",
+        "answer": "Minsk"
+    },
+    {
+        "question": "What is the capital of Hungary?",
+        "answer": "Budapest"
+    },
+    {
+        "question": "What is the capital of Czech Republic?",
+        "answer": "Prague"
+    },
+    {
+        "question": "What is the capital of Slovakia?",
+        "answer": "Bratislava"
+    },
+    {
+        "question": "What is the capital of Romania?",
+        "answer": "Bucharest"
+    },
+    {
+        "question": "What is the capital of Bulgaria?",
+        "answer": "Sofia"
+    },
+    {
+        "question": "What is the capital of Serbia?",
+        "answer": "Belgrade"
+    },
+    {
+        "question": "What is the capital of Croatia?",
+        "answer": "Zagreb"
+    },
+    {
+        "question": "What is the capital of Slovenia?",
+        "answer": "Ljubljana"
+    },
+    {
+        "question": "What is the capital of Bosnia and Herzegovina?",
+        "answer": "Sarajevo"
+    },
+    {
+        "question": "What is the capital of Albania?",
+        "answer": "Tirana"
+    },
+    {
+        "question": "What is the capital of Morocco?",
+        "answer": "Rabat"
+    },
+    {
+        "question": "What is the capital of Algeria?",
+        "answer": "Algiers"
+    },
+    {
+        "question": "What is the capital of Tunisia?",
+        "answer": "Tunis"
+    },
+    {
+        "question": "What is the capital of Libya?",
+        "answer": "Tripoli"
+    },
+    {
+        "question": "What is the capital of Sudan?",
+        "answer": "Khartoum"
+    },
+    {
+        "question": "What is the capital of Ethiopia?",
+        "answer": "Addis Ababa"
+    },
+    {
+        "question": "What is the capital of Ghana?",
+        "answer": "Accra"
+    },
+    {
+        "question": "What is the capital of Tanzania?",
+        "answer": "Dodoma"
+    },
+    {
+        "question": "What is the capital of Uganda?",
+        "answer": "Kampala"
+    },
+    {
+        "question": "What is the capital of Zimbabwe?",
+        "answer": "Harare"
+    },
+    {
+        "question": "What is the capital of Zambia?",
+        "answer": "Lusaka"
+    },
+    {
+        "question": "What is the capital of Mozambique?",
+        "answer": "Maputo"
+    },
+    {
+        "question": "What is the capital of Angola?",
+        "answer": "Luanda"
+    },
+    {
+        "question": "What is the capital of Cameroon?",
+        "answer": "Yaounde"
+    },
+    {
+        "question": "What is the capital of Senegal?",
+        "answer": "Dakar"
+    },
+    {
+        "question": "What is the capital of New Zealand?",
+        "answer": "Wellington"
+    },
+    {
+        "question": "What is the capital of Fiji?",
+        "answer": "Suva"
+    },
+    {
+        "question": "What is the capital of Papua New Guinea?",
+        "answer": "Port Moresby"
+    },
+    {
+        "question": "What is the capital of Mongolia?",
+        "answer": "Ulaanbaatar"
+    },
+    {
+        "question": "What is the capital of Kazakhstan?",
+        "answer": "Astana"
+    },
+    {
+        "question": "What is the capital of Uzbekistan?",
+        "answer": "Tashkent"
+    },
+    {
+        "question": "What is the capital of Turkmenistan?",
+        "answer": "Ashgabat"
+    },
+    {
+        "question": "What is the capital of Kyrgyzstan?",
+        "answer": "Bishkek"
+    },
+    {
+        "question": "What is the capital of Tajikistan?",
+        "answer": "Dushanbe"
+    },
+    {
+        "question": "What is the capital of Georgia?",
+        "answer": "Tbilisi"
+    },
+    {
+        "question": "What is the capital of Armenia?",
+        "answer": "Yerevan"
+    },
+    {
+        "question": "What is the capital of Azerbaijan?",
+        "answer": "Baku"
+    },
+    {
+        "question": "What is the capital of Cyprus?",
+        "answer": "Nicosia"
+    },
+    {
+        "question": "What is the capital of Malta?",
+        "answer": "Valletta"
+    },
+    {
+        "question": "What is the capital of Luxembourg?",
+        "answer": "Luxembourg City"
+    },
+    {
+        "question": "What is the capital of Estonia?",
+        "answer": "Tallinn"
+    },
+    {
+        "question": "What is the capital of Latvia?",
+        "answer": "Riga"
+    },
+    {
+        "question": "What is the capital of Lithuania?",
+        "answer": "Vilnius"
+    },
+    {
+        "question": "What is the capital of Moldova?",
+        "answer": "Chisinau"
+    },
+    {
+        "question": "What is the capital of Panama?",
+        "answer": "Panama City"
+    },
+    {
+        "question": "What is the capital of Costa Rica?",
+        "answer": "San Jose"
+    },
+    {
+        "question": "What is the capital of Guatemala?",
+        "answer": "Guatemala City"
+    },
+    {
+        "question": "What is the capital of Honduras?",
+        "answer": "Tegucigalpa"
+    },
+    {
+        "question": "What is the capital of El Salvador?",
+        "answer": "San Salvador"
+    },
+    {
+        "question": "What is the capital of Nicaragua?",
+        "answer": "Managua"
+    },
+    {
+        "question": "What is the capital of Jamaica?",
+        "answer": "Kingston"
+    },
+    {
+        "question": "What is the capital of Haiti?",
+        "answer": "Port-au-Prince"
+    },
+    {
+        "question": "What is the capital of Dominican Republic?",
+        "answer": "Santo Domingo"
+    },
+    {
+        "question": "What is the capital of Bolivia?",
+        "answer": "Sucre"
+    },
+    {
+        "question": "What is the capital of Ecuador?",
+        "answer": "Quito"
+    },
+    {
+        "question": "What is the capital of Paraguay?",
+        "answer": "Asuncion"
+    },
+    {
+        "question": "What is the capital of Uruguay?",
+        "answer": "Montevideo"
+    },
+    {
+        "question": "What is the capital of United Kingdom?",
+        "answer": "London"
+    },
+    {
+        "question": "What is the capital of United States?",
+        "answer": "Washington D.C."
+    },
+    {
+        "question": "What is the chemical symbol for Hydrogen?",
+        "answer": "H"
+    },
+    {
+        "question": "Which element has the chemical symbol 'H'?",
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "What is the chemical symbol for Helium?",
+        "answer": "He"
+    },
+    {
+        "question": "Which element has the chemical symbol 'He'?",
+        "answer": "Helium"
+    },
+    {
+        "question": "What is the chemical symbol for Lithium?",
+        "answer": "Li"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Li'?",
+        "answer": "Lithium"
+    },
+    {
+        "question": "What is the chemical symbol for Beryllium?",
+        "answer": "Be"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Be'?",
+        "answer": "Beryllium"
+    },
+    {
+        "question": "What is the chemical symbol for Boron?",
+        "answer": "B"
+    },
+    {
+        "question": "Which element has the chemical symbol 'B'?",
+        "answer": "Boron"
+    },
+    {
+        "question": "What is the chemical symbol for Carbon?",
+        "answer": "C"
+    },
+    {
+        "question": "Which element has the chemical symbol 'C'?",
+        "answer": "Carbon"
+    },
+    {
+        "question": "What is the chemical symbol for Nitrogen?",
+        "answer": "N"
+    },
+    {
+        "question": "Which element has the chemical symbol 'N'?",
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What is the chemical symbol for Oxygen?",
+        "answer": "O"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "answer": "Oxygen"
+    },
+    {
+        "question": "What is the chemical symbol for Fluorine?",
+        "answer": "F"
+    },
+    {
+        "question": "Which element has the chemical symbol 'F'?",
+        "answer": "Fluorine"
+    },
+    {
+        "question": "What is the chemical symbol for Neon?",
+        "answer": "Ne"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Ne'?",
+        "answer": "Neon"
+    },
+    {
+        "question": "What is the chemical symbol for Sodium?",
+        "answer": "Na"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Na'?",
+        "answer": "Sodium"
+    },
+    {
+        "question": "What is the chemical symbol for Magnesium?",
+        "answer": "Mg"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Mg'?",
+        "answer": "Magnesium"
+    },
+    {
+        "question": "What is the chemical symbol for Aluminium?",
+        "answer": "Al"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Al'?",
+        "answer": "Aluminium"
+    },
+    {
+        "question": "What is the chemical symbol for Silicon?",
+        "answer": "Si"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Si'?",
+        "answer": "Silicon"
+    },
+    {
+        "question": "What is the chemical symbol for Phosphorus?",
+        "answer": "P"
+    },
+    {
+        "question": "Which element has the chemical symbol 'P'?",
+        "answer": "Phosphorus"
+    },
+    {
+        "question": "What is the chemical symbol for Sulfur?",
+        "answer": "S"
+    },
+    {
+        "question": "Which element has the chemical symbol 'S'?",
+        "answer": "Sulfur"
+    },
+    {
+        "question": "What is the chemical symbol for Chlorine?",
+        "answer": "Cl"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Cl'?",
+        "answer": "Chlorine"
+    },
+    {
+        "question": "What is the chemical symbol for Argon?",
+        "answer": "Ar"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Ar'?",
+        "answer": "Argon"
+    },
+    {
+        "question": "What is the chemical symbol for Potassium?",
+        "answer": "K"
+    },
+    {
+        "question": "Which element has the chemical symbol 'K'?",
+        "answer": "Potassium"
+    },
+    {
+        "question": "What is the chemical symbol for Calcium?",
+        "answer": "Ca"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Ca'?",
+        "answer": "Calcium"
+    },
+    {
+        "question": "What is the chemical symbol for Iron?",
+        "answer": "Fe"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Fe'?",
+        "answer": "Iron"
+    },
+    {
+        "question": "What is the chemical symbol for Copper?",
+        "answer": "Cu"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Cu'?",
+        "answer": "Copper"
+    },
+    {
+        "question": "What is the chemical symbol for Zinc?",
+        "answer": "Zn"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Zn'?",
+        "answer": "Zinc"
+    },
+    {
+        "question": "What is the chemical symbol for Silver?",
+        "answer": "Ag"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Ag'?",
+        "answer": "Silver"
+    },
+    {
+        "question": "What is the chemical symbol for Gold?",
+        "answer": "Au"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Au'?",
+        "answer": "Gold"
+    },
+    {
+        "question": "What is the chemical symbol for Platinum?",
+        "answer": "Pt"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Pt'?",
+        "answer": "Platinum"
+    },
+    {
+        "question": "What is the chemical symbol for Lead?",
+        "answer": "Pb"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Pb'?",
+        "answer": "Lead"
+    },
+    {
+        "question": "What is the chemical symbol for Tin?",
+        "answer": "Sn"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Sn'?",
+        "answer": "Tin"
+    },
+    {
+        "question": "What is the chemical symbol for Nickel?",
+        "answer": "Ni"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Ni'?",
+        "answer": "Nickel"
+    },
+    {
+        "question": "What is the chemical symbol for Mercury?",
+        "answer": "Hg"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Hg'?",
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the chemical symbol for Iodine?",
+        "answer": "I"
+    },
+    {
+        "question": "Which element has the chemical symbol 'I'?",
+        "answer": "Iodine"
+    },
+    {
+        "question": "What is the chemical symbol for Uranium?",
+        "answer": "U"
+    },
+    {
+        "question": "Which element has the chemical symbol 'U'?",
+        "answer": "Uranium"
+    },
+    {
+        "question": "What is the chemical symbol for Tungsten?",
+        "answer": "W"
+    },
+    {
+        "question": "Which element has the chemical symbol 'W'?",
+        "answer": "Tungsten"
+    },
+    {
+        "question": "What is the chemical symbol for Chromium?",
+        "answer": "Cr"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Cr'?",
+        "answer": "Chromium"
+    },
+    {
+        "question": "What is the chemical symbol for Manganese?",
+        "answer": "Mn"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Mn'?",
+        "answer": "Manganese"
+    },
+    {
+        "question": "What is the chemical symbol for Cobalt?",
+        "answer": "Co"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Co'?",
+        "answer": "Cobalt"
+    },
+    {
+        "question": "What is the chemical symbol for Barium?",
+        "answer": "Ba"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Ba'?",
+        "answer": "Barium"
+    },
+    {
+        "question": "What is the chemical symbol for Xenon?",
+        "answer": "Xe"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Xe'?",
+        "answer": "Xenon"
+    },
+    {
+        "question": "What is the chemical symbol for Bromine?",
+        "answer": "Br"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Br'?",
+        "answer": "Bromine"
+    },
+    {
+        "question": "What is the chemical symbol for Titanium?",
+        "answer": "Ti"
+    },
+    {
+        "question": "Which element has the chemical symbol 'Ti'?",
+        "answer": "Titanium"
+    },
+    {
+        "question": "Which planet is the 1st from the Sun?",
+        "answer": "Mercury"
+    },
+    {
+        "question": "Which planet is the 2nd from the Sun?",
+        "answer": "Venus"
+    },
+    {
+        "question": "Which planet is the 3rd from the Sun?",
+        "answer": "Earth"
+    },
+    {
+        "question": "Which planet is the 4th from the Sun?",
+        "answer": "Mars"
+    },
+    {
+        "question": "Which planet is the 5th from the Sun?",
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which planet is the 6th from the Sun?",
+        "answer": "Saturn"
+    },
+    {
+        "question": "Which planet is the 7th from the Sun?",
+        "answer": "Uranus"
+    },
+    {
+        "question": "Which planet is the 8th from the Sun?",
+        "answer": "Neptune"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "answer": "Mars"
+    },
+    {
+        "question": "Which is the largest planet in the Solar System?",
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which is the smallest planet in the Solar System?",
+        "answer": "Mercury"
+    },
+    {
+        "question": "Which planet is known for its prominent ring system?",
+        "answer": "Saturn"
+    },
+    {
+        "question": "Which planet is known as the Morning Star or Evening Star?",
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the closest star to Earth?",
+        "answer": "The Sun"
+    },
+    {
+        "question": "What is the natural satellite of Earth called?",
+        "answer": "The Moon"
+    },
+    {
+        "question": "Which planet has the most moons confirmed as of recent counts?",
+        "answer": "Saturn"
+    },
+    {
+        "question": "How many planets are there in the Solar System?",
+        "answer": "Eight"
+    },
+    {
+        "question": "Which galaxy do we live in?",
+        "answer": "The Milky Way"
+    },
+    {
+        "question": "What is the hottest planet in the Solar System?",
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the name given to a large group of stars?",
+        "answer": "Galaxy"
+    },
+    {
+        "question": "What is the currency of India?",
+        "answer": "Rupee"
+    },
+    {
+        "question": "What is the currency of Pakistan?",
+        "answer": "Rupee"
+    },
+    {
+        "question": "What is the currency of United States?",
+        "answer": "Dollar"
+    },
+    {
+        "question": "What is the currency of United Kingdom?",
+        "answer": "Pound Sterling"
+    },
+    {
+        "question": "What is the currency of Japan?",
+        "answer": "Yen"
+    },
+    {
+        "question": "What is the currency of China?",
+        "answer": "Yuan (Renminbi)"
+    },
+    {
+        "question": "What is the currency of Germany?",
+        "answer": "Euro"
+    },
+    {
+        "question": "What is the currency of France?",
+        "answer": "Euro"
+    },
+    {
+        "question": "What is the currency of Italy?",
+        "answer": "Euro"
+    },
+    {
+        "question": "What is the currency of Spain?",
+        "answer": "Euro"
+    },
+    {
+        "question": "What is the currency of Russia?",
+        "answer": "Ruble"
+    },
+    {
+        "question": "What is the currency of Brazil?",
+        "answer": "Real"
+    },
+    {
+        "question": "What is the currency of Canada?",
+        "answer": "Dollar"
+    },
+    {
+        "question": "What is the currency of Australia?",
+        "answer": "Dollar"
+    },
+    {
+        "question": "What is the currency of Mexico?",
+        "answer": "Peso"
+    },
+    {
+        "question": "What is the currency of Switzerland?",
+        "answer": "Franc"
+    },
+    {
+        "question": "What is the currency of South Korea?",
+        "answer": "Won"
+    },
+    {
+        "question": "What is the currency of Saudi Arabia?",
+        "answer": "Riyal"
+    },
+    {
+        "question": "What is the currency of Turkey?",
+        "answer": "Lira"
+    },
+    {
+        "question": "What is the currency of Egypt?",
+        "answer": "Pound"
+    },
+    {
+        "question": "What is the currency of South Africa?",
+        "answer": "Rand"
+    },
+    {
+        "question": "What is the currency of Thailand?",
+        "answer": "Baht"
+    },
+    {
+        "question": "What is the currency of Indonesia?",
+        "answer": "Rupiah"
+    },
+    {
+        "question": "What is the currency of Vietnam?",
+        "answer": "Dong"
+    },
+    {
+        "question": "What is the currency of Nigeria?",
+        "answer": "Naira"
+    },
+    {
+        "question": "What is the currency of Sweden?",
+        "answer": "Krona"
+    },
+    {
+        "question": "What is the currency of Norway?",
+        "answer": "Krone"
+    },
+    {
+        "question": "What is the currency of Denmark?",
+        "answer": "Krone"
+    },
+    {
+        "question": "What is the currency of Poland?",
+        "answer": "Zloty"
+    },
+    {
+        "question": "What is the currency of Israel?",
+        "answer": "Shekel"
+    },
+    {
+        "question": "What is the currency of United Arab Emirates?",
+        "answer": "Dirham"
+    },
+    {
+        "question": "What is the currency of Kuwait?",
+        "answer": "Dinar"
+    },
+    {
+        "question": "What is the currency of Bangladesh?",
+        "answer": "Taka"
+    },
+    {
+        "question": "What is the currency of Sri Lanka?",
+        "answer": "Rupee"
+    },
+    {
+        "question": "What is the currency of Nepal?",
+        "answer": "Rupee"
+    },
+    {
+        "question": "What is the currency of Iran?",
+        "answer": "Rial"
+    },
+    {
+        "question": "What is the currency of Iraq?",
+        "answer": "Dinar"
+    },
+    {
+        "question": "What is the currency of Afghanistan?",
+        "answer": "Afghani"
+    },
+    {
+        "question": "What is the currency of Philippines?",
+        "answer": "Peso"
+    },
+    {
+        "question": "What is the currency of Malaysia?",
+        "answer": "Ringgit"
+    },
+    {
+        "question": "What is the currency of Singapore?",
+        "answer": "Dollar"
+    },
+    {
+        "question": "What is the currency of New Zealand?",
+        "answer": "Dollar"
+    },
+    {
+        "question": "What is the currency of Argentina?",
+        "answer": "Peso"
+    },
+    {
+        "question": "What is the currency of Chile?",
+        "answer": "Peso"
+    },
+    {
+        "question": "What is the currency of Colombia?",
+        "answer": "Peso"
+    },
+    {
+        "question": "What is the currency of Peru?",
+        "answer": "Sol"
+    },
+    {
+        "question": "What is the currency of Kenya?",
+        "answer": "Shilling"
+    },
+    {
+        "question": "What is the currency of Ghana?",
+        "answer": "Cedi"
+    },
+    {
+        "question": "What is the currency of Ethiopia?",
+        "answer": "Birr"
+    },
+    {
+        "question": "What is the currency of Morocco?",
+        "answer": "Dirham"
+    },
+    {
+        "question": "How many days are there in a week?",
+        "answer": "Seven"
+    },
+    {
+        "question": "How many months are there in a year?",
+        "answer": "Twelve"
+    },
+    {
+        "question": "How many days are there in a leap year?",
+        "answer": "366"
+    },
+    {
+        "question": "How many days are there in a normal (non-leap) year?",
+        "answer": "365"
+    },
+    {
+        "question": "How many hours are there in a day?",
+        "answer": "24"
+    },
+    {
+        "question": "How many minutes are there in an hour?",
+        "answer": "60"
+    },
+    {
+        "question": "How many seconds are there in a minute?",
+        "answer": "60"
+    },
+    {
+        "question": "How many continents are there on Earth?",
+        "answer": "Seven"
+    },
+    {
+        "question": "How many oceans are there on Earth?",
+        "answer": "Five"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "answer": "Pacific Ocean"
+    },
+    {
+        "question": "What is the smallest ocean on Earth?",
+        "answer": "Arctic Ocean"
+    },
+    {
+        "question": "What is the largest continent by area?",
+        "answer": "Asia"
+    },
+    {
+        "question": "What is the smallest continent by area?",
+        "answer": "Australia"
+    },
+    {
+        "question": "What is the largest country in the world by area?",
+        "answer": "Russia"
+    },
+    {
+        "question": "What is the smallest country in the world by area?",
+        "answer": "Vatican City"
+    },
+    {
+        "question": "What is the most populous country in the world?",
+        "answer": "India"
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "answer": "Nile"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "answer": "Sahara Desert"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "answer": "Mount Everest"
+    },
+    {
+        "question": "What is the deepest ocean trench in the world?",
+        "answer": "Mariana Trench"
+    },
+    {
+        "question": "What is the largest island in the world?",
+        "answer": "Greenland"
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "answer": "Cheetah"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "What is the largest land animal in the world?",
+        "answer": "African Elephant"
+    },
+    {
+        "question": "What is the national animal of India?",
+        "answer": "Bengal Tiger"
+    },
+    {
+        "question": "What is the tallest animal in the world?",
+        "answer": "Giraffe"
+    },
+    {
+        "question": "How many colors are there in a rainbow?",
+        "answer": "Seven"
+    },
+    {
+        "question": "What are the primary colors?",
+        "answer": "Red, Blue, and Yellow"
+    },
+    {
+        "question": "What gas do plants absorb from the atmosphere for photosynthesis?",
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What gas do humans need to breathe to survive?",
+        "answer": "Oxygen"
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "answer": "H2O"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "answer": "100 degrees Celsius"
+    },
+    {
+        "question": "What is the freezing point of water in Celsius?",
+        "answer": "0 degrees Celsius"
+    },
+    {
+        "question": "What is the powerhouse of the cell called?",
+        "answer": "Mitochondria"
+    },
+    {
+        "question": "How many bones are there in the adult human body?",
+        "answer": "206"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "answer": "Skin"
+    },
+    {
+        "question": "How many chambers does the human heart have?",
+        "answer": "Four"
+    },
+    {
+        "question": "What is the normal body temperature of a human in Celsius?",
+        "answer": "37 degrees Celsius"
+    },
+    {
+        "question": "What is the study of living organisms called?",
+        "answer": "Biology"
+    },
+    {
+        "question": "What is the study of the human mind called?",
+        "answer": "Psychology"
+    },
+    {
+        "question": "What is the study of stars and space called?",
+        "answer": "Astronomy"
+    },
+    {
+        "question": "What is the study of rocks and earth's physical structure called?",
+        "answer": "Geology"
+    },
+    {
+        "question": "What is the study of weather called?",
+        "answer": "Meteorology"
+    },
+    {
+        "question": "What is the currency used in most of the European Union called?",
+        "answer": "Euro"
+    },
+    {
+        "question": "How many sides does a hexagon have?",
+        "answer": "Six"
+    },
+    {
+        "question": "How many sides does a pentagon have?",
+        "answer": "Five"
+    },
+    {
+        "question": "How many sides does a triangle have?",
+        "answer": "Three"
+    },
+    {
+        "question": "How many sides does a square have?",
+        "answer": "Four"
+    },
+    {
+        "question": "What is the value of Pi rounded to two decimal places?",
+        "answer": "3.14"
+    },
+    {
+        "question": "How many degrees are there in a right angle?",
+        "answer": "90 degrees"
+    },
+    {
+        "question": "How many degrees are there in a straight angle?",
+        "answer": "180 degrees"
+    },
+    {
+        "question": "What is the square root of 64?",
+        "answer": "8"
+    },
+    {
+        "question": "What is the square root of 144?",
+        "answer": "12"
+    },
+    {
+        "question": "How many legs does a spider have?",
+        "answer": "Eight"
+    },
+    {
+        "question": "How many legs does an insect have?",
+        "answer": "Six"
+    },
+    {
+        "question": "What is a baby dog called?",
+        "answer": "Puppy"
+    },
+    {
+        "question": "What is a baby cat called?",
+        "answer": "Kitten"
+    },
+    {
+        "question": "What is a baby cow called?",
+        "answer": "Calf"
+    },
+    {
+        "question": "What is a baby sheep called?",
+        "answer": "Lamb"
+    },
+    {
+        "question": "What is a group of lions called?",
+        "answer": "Pride"
+    },
+    {
+        "question": "What is a group of wolves called?",
+        "answer": "Pack"
+    },
+    {
+        "question": "What is the national bird of India?",
+        "answer": "Peacock"
+    },
+    {
+        "question": "What is the national sport of Japan?",
+        "answer": "Sumo Wrestling"
+    },
+    {
+        "question": "Which bird is known for its ability to mimic human speech?",
+        "answer": "Parrot"
+    },
+    {
+        "question": "Which is the fastest bird in the world?",
+        "answer": "Peregrine Falcon"
+    },
+    {
+        "question": "Which is the largest bird in the world?",
+        "answer": "Ostrich"
+    },
+    {
+        "question": "What do you call a person who studies animals?",
+        "answer": "Zoologist"
+    },
+    {
+        "question": "What do you call a person who studies plants?",
+        "answer": "Botanist"
+    },
+    {
+        "question": "What do you call a doctor who treats teeth?",
+        "answer": "Dentist"
+    },
+    {
+        "question": "What do you call a doctor who treats eyes?",
+        "answer": "Ophthalmologist"
+    },
+    {
+        "question": "What do you call a person who flies an aircraft?",
+        "answer": "Pilot"
+    },
+    {
+        "question": "Who invented the telephone?",
+        "answer": "Alexander Graham Bell"
+    },
+    {
+        "question": "Who invented the light bulb?",
+        "answer": "Thomas Edison"
+    },
+    {
+        "question": "Who invented the printing press?",
+        "answer": "Johannes Gutenberg"
+    },
+    {
+        "question": "Who discovered gravity?",
+        "answer": "Isaac Newton"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "answer": "Albert Einstein"
+    },
+    {
+        "question": "Who invented the World Wide Web?",
+        "answer": "Tim Berners-Lee"
+    },
+    {
+        "question": "Who is known as the father of computers?",
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "Who invented the airplane?",
+        "answer": "The Wright Brothers"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "Who invented the television?",
+        "answer": "John Logie Baird"
+    },
+    {
+        "question": "Who discovered electricity (through kite experiment)?",
+        "answer": "Benjamin Franklin"
+    },
+    {
+        "question": "Who invented the steam engine?",
+        "answer": "James Watt"
+    },
+    {
+        "question": "Who invented dynamite?",
+        "answer": "Alfred Nobel"
+    },
+    {
+        "question": "Who discovered radium?",
+        "answer": "Marie Curie"
+    },
+    {
+        "question": "Who wrote the theory of evolution?",
+        "answer": "Charles Darwin"
+    },
+    {
+        "question": "Who invented the automobile (modern practical version)?",
+        "answer": "Karl Benz"
+    },
+    {
+        "question": "Who invented the microscope?",
+        "answer": "Antonie van Leeuwenhoek"
+    },
+    {
+        "question": "Who invented the telescope?",
+        "answer": "Galileo Galilei (improved it significantly)"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "Who wrote the play Romeo and Juliet?",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "Who wrote the Harry Potter book series?",
+        "answer": "J.K. Rowling"
+    },
+    {
+        "question": "Who composed the Ninth Symphony?",
+        "answer": "Ludwig van Beethoven"
+    },
+    {
+        "question": "Who is known as the Father of the Nation in India?",
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "question": "Who was the first man to walk on the Moon?",
+        "answer": "Neil Armstrong"
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "answer": "George Washington"
+    },
+    {
+        "question": "Who founded Microsoft?",
+        "answer": "Bill Gates"
+    },
+    {
+        "question": "Who founded Apple Inc.?",
+        "answer": "Steve Jobs"
+    },
+    {
+        "question": "Who founded Facebook?",
+        "answer": "Mark Zuckerberg"
+    },
+    {
+        "question": "Who founded Amazon?",
+        "answer": "Jeff Bezos"
+    },
+    {
+        "question": "Who founded Tesla and SpaceX?",
+        "answer": "Elon Musk"
+    },
+    {
+        "question": "Who wrote the national anthem of India, Jana Gana Mana?",
+        "answer": "Rabindranath Tagore"
+    },
+    {
+        "question": "Who discovered America?",
+        "answer": "Christopher Columbus"
+    },
+    {
+        "question": "Who was the first Emperor of Rome?",
+        "answer": "Augustus"
+    },
+    {
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "answer": "Michelangelo"
+    },
+    {
+        "question": "Who invented the polio vaccine?",
+        "answer": "Jonas Salk"
+    },
+    {
+        "question": "Who is credited with inventing the World Wide Web browser concept for public use?",
+        "answer": "Tim Berners-Lee"
+    },
+    {
+        "question": "Who wrote the book '1984'?",
+        "answer": "George Orwell"
+    },
+    {
+        "question": "Who is the author of 'Pride and Prejudice'?",
+        "answer": "Jane Austen"
+    },
+    {
+        "question": "Who wrote 'The Adventures of Tom Sawyer'?",
+        "answer": "Mark Twain"
+    },
+    {
+        "question": "Who was the first woman to win a Nobel Prize?",
+        "answer": "Marie Curie"
+    },
+    {
+        "question": "Who invented the ballpoint pen?",
+        "answer": "Laszlo Biro"
+    },
+    {
+        "question": "On which continent is the Sahara Desert located?",
+        "answer": "Africa"
+    },
+    {
+        "question": "On which continent is the Amazon Rainforest located?",
+        "answer": "South America"
+    },
+    {
+        "question": "Which river flows through Egypt?",
+        "answer": "Nile"
+    },
+    {
+        "question": "Which river flows through Paris?",
+        "answer": "Seine"
+    },
+    {
+        "question": "Which river flows through London?",
+        "answer": "Thames"
+    },
+    {
+        "question": "Which mountain range separates Europe and Asia?",
+        "answer": "Ural Mountains"
+    },
+    {
+        "question": "Which mountain range includes Mount Everest?",
+        "answer": "Himalayas"
+    },
+    {
+        "question": "Which is the longest mountain range in the world?",
+        "answer": "The Andes"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answer": "Japan"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun's neighbor, the Land of Morning Calm?",
+        "answer": "South Korea"
+    },
+    {
+        "question": "Which country is known as the Land of a Thousand Lakes?",
+        "answer": "Finland"
+    },
+    {
+        "question": "Which country is known as the Land Down Under?",
+        "answer": "Australia"
+    },
+    {
+        "question": "Which city is known as the Big Apple?",
+        "answer": "New York City"
+    },
+    {
+        "question": "Which city is known as the City of Love?",
+        "answer": "Paris"
+    },
+    {
+        "question": "Which city is known as the Eternal City?",
+        "answer": "Rome"
+    },
+    {
+        "question": "Which country has the shape of a boot?",
+        "answer": "Italy"
+    },
+    {
+        "question": "Which is the driest desert in the world?",
+        "answer": "Atacama Desert"
+    },
+    {
+        "question": "Which is the largest coral reef system in the world?",
+        "answer": "Great Barrier Reef"
+    },
+    {
+        "question": "In which country is the Great Barrier Reef located?",
+        "answer": "Australia"
+    },
+    {
+        "question": "Which is the highest waterfall in the world?",
+        "answer": "Angel Falls"
+    },
+    {
+        "question": "In which country is the Eiffel Tower located?",
+        "answer": "France"
+    },
+    {
+        "question": "In which country is the Taj Mahal located?",
+        "answer": "India"
+    },
+    {
+        "question": "In which country is the Great Wall located?",
+        "answer": "China"
+    },
+    {
+        "question": "In which country are the pyramids of Giza located?",
+        "answer": "Egypt"
+    },
+    {
+        "question": "In which country is the Colosseum located?",
+        "answer": "Italy"
+    },
+    {
+        "question": "In which country is Big Ben located?",
+        "answer": "United Kingdom"
+    },
+    {
+        "question": "In which country is the Statue of Liberty located?",
+        "answer": "United States"
+    },
+    {
+        "question": "In which country is Christ the Redeemer statue located?",
+        "answer": "Brazil"
+    },
+    {
+        "question": "In which country is Machu Picchu located?",
+        "answer": "Peru"
+    },
+    {
+        "question": "Which strait separates Europe and Africa?",
+        "answer": "Strait of Gibraltar"
+    },
+    {
+        "question": "Which canal connects the Mediterranean Sea and the Red Sea?",
+        "answer": "Suez Canal"
+    },
+    {
+        "question": "Which canal connects the Atlantic and Pacific Oceans?",
+        "answer": "Panama Canal"
+    },
+    {
+        "question": "Which is the largest lake in the world by area?",
+        "answer": "Caspian Sea"
+    },
+    {
+        "question": "Which is the largest freshwater lake in the world by area?",
+        "answer": "Lake Superior"
+    },
+    {
+        "question": "What is the capital of the continent-sized country Brazil, known for its planned layout?",
+        "answer": "Brasilia"
+    },
+    {
+        "question": "Which desert covers most of northern Africa?",
+        "answer": "Sahara Desert"
+    },
+    {
+        "question": "Which sea has no coastline and is the saltiest large body of water?",
+        "answer": "Dead Sea"
+    },
+    {
+        "question": "How many players are there in a football (soccer) team on the field?",
+        "answer": "Eleven"
+    },
+    {
+        "question": "How many players are there in a cricket team on the field?",
+        "answer": "Eleven"
+    },
+    {
+        "question": "How many players are there in a basketball team on the court?",
+        "answer": "Five"
+    },
+    {
+        "question": "How many players are there in a volleyball team on the court?",
+        "answer": "Six"
+    },
+    {
+        "question": "How many players are there in a hockey team on the field?",
+        "answer": "Eleven"
+    },
+    {
+        "question": "How often are the Summer Olympic Games held?",
+        "answer": "Every four years"
+    },
+    {
+        "question": "In which country were the first modern Olympic Games held?",
+        "answer": "Greece"
+    },
+    {
+        "question": "Which country hosted the 2016 Summer Olympics?",
+        "answer": "Brazil"
+    },
+    {
+        "question": "Which country hosted the 2020 Summer Olympics (held in 2021)?",
+        "answer": "Japan"
+    },
+    {
+        "question": "Which sport is known as the 'Gentleman's Game'?",
+        "answer": "Cricket"
+    },
+    {
+        "question": "In which sport is the term 'Grand Slam' used, referring to major tournaments?",
+        "answer": "Tennis"
+    },
+    {
+        "question": "How many players make up a rugby union team?",
+        "answer": "Fifteen"
+    },
+    {
+        "question": "What is the maximum score possible with three darts in a single turn?",
+        "answer": "180"
+    },
+    {
+        "question": "How many rings are there in the Olympic flag?",
+        "answer": "Five"
+    },
+    {
+        "question": "Which trophy is awarded to the winner of the FIFA World Cup?",
+        "answer": "FIFA World Cup Trophy"
+    },
+    {
+        "question": "Which country has won the most FIFA World Cup titles?",
+        "answer": "Brazil"
+    },
+    {
+        "question": "What is the national sport of the United States?",
+        "answer": "Baseball"
+    },
+    {
+        "question": "What sport is played at Wimbledon?",
+        "answer": "Tennis"
+    },
+    {
+        "question": "How many holes are there in a standard round of golf?",
+        "answer": "Eighteen"
+    },
+    {
+        "question": "In boxing, how many rounds are typically in a professional championship match?",
+        "answer": "Twelve"
+    },
+    {
+        "question": "What is the term for scoring three goals by one player in a soccer match?",
+        "answer": "Hat-trick"
+    },
+    {
+        "question": "How many points is a touchdown worth in American football?",
+        "answer": "Six"
+    },
+    {
+        "question": "What shape is a cricket pitch?",
+        "answer": "Rectangular"
+    },
+    {
+        "question": "In which sport would you perform a slam dunk?",
+        "answer": "Basketball"
+    },
+    {
+        "question": "Which country is credited with inventing the sport of cricket?",
+        "answer": "England"
+    },
+    {
+        "question": "What is the process by which plants make their own food called?",
+        "answer": "Photosynthesis"
+    },
+    {
+        "question": "What is the basic unit of life called?",
+        "answer": "Cell"
+    },
+    {
+        "question": "What part of the plant conducts photosynthesis?",
+        "answer": "Leaves"
+    },
+    {
+        "question": "What is the green pigment in plants called?",
+        "answer": "Chlorophyll"
+    },
+    {
+        "question": "What gas do humans exhale?",
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "question": "What is the human body's control center called?",
+        "answer": "Brain"
+    },
+    {
+        "question": "How many senses do humans have traditionally?",
+        "answer": "Five"
+    },
+    {
+        "question": "What organ pumps blood throughout the human body?",
+        "answer": "Heart"
+    },
+    {
+        "question": "What is the liquid part of blood called?",
+        "answer": "Plasma"
+    },
+    {
+        "question": "What blood cells help fight infection?",
+        "answer": "White Blood Cells"
+    },
+    {
+        "question": "What blood cells carry oxygen?",
+        "answer": "Red Blood Cells"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "answer": "Diamond"
+    },
+    {
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What force pulls objects toward the Earth?",
+        "answer": "Gravity"
+    },
+    {
+        "question": "What is the speed of light approximately, in km per second?",
+        "answer": "300,000 km per second"
+    },
+    {
+        "question": "What is the unit of electric current?",
+        "answer": "Ampere"
+    },
+    {
+        "question": "What is the unit of electrical resistance?",
+        "answer": "Ohm"
+    },
+    {
+        "question": "What is the unit used to measure temperature in the metric system?",
+        "answer": "Celsius"
+    },
+    {
+        "question": "What instrument is used to measure temperature?",
+        "answer": "Thermometer"
+    },
+    {
+        "question": "What instrument is used to measure atmospheric pressure?",
+        "answer": "Barometer"
+    },
+    {
+        "question": "What instrument is used to measure earthquakes?",
+        "answer": "Seismograph"
+    },
+    {
+        "question": "What planet is closest to the Sun?",
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the study of fossils called?",
+        "answer": "Paleontology"
+    },
+    {
+        "question": "What natural phenomenon causes day and night?",
+        "answer": "Rotation of the Earth"
+    },
+    {
+        "question": "What causes the seasons to change on Earth?",
+        "answer": "The tilt of Earth's axis"
+    },
+    {
+        "question": "What is the process of water turning into vapor called?",
+        "answer": "Evaporation"
+    },
+    {
+        "question": "What is the process of vapor turning into liquid water called?",
+        "answer": "Condensation"
+    },
+    {
+        "question": "What are the three states of matter?",
+        "answer": "Solid, liquid, and gas"
+    },
+    {
+        "question": "What is the center of an atom called?",
+        "answer": "Nucleus"
+    },
+    {
+        "question": "What are the tiny particles that orbit the nucleus of an atom called?",
+        "answer": "Electrons"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "answer": "1945"
+    },
+    {
+        "question": "In which year did World War I begin?",
+        "answer": "1914"
+    },
+    {
+        "question": "In which year did India gain independence?",
+        "answer": "1947"
+    },
+    {
+        "question": "In which year did the Berlin Wall fall?",
+        "answer": "1989"
+    },
+    {
+        "question": "Who was the first Prime Minister of India?",
+        "answer": "Jawaharlal Nehru"
+    },
+    {
+        "question": "Who was the President of the United States during the American Civil War?",
+        "answer": "Abraham Lincoln"
+    },
+    {
+        "question": "In which year did the Titanic sink?",
+        "answer": "1912"
+    },
+    {
+        "question": "In which year did man first land on the Moon?",
+        "answer": "1969"
+    },
+    {
+        "question": "Which ancient civilization built the pyramids of Giza?",
+        "answer": "The Ancient Egyptians"
+    },
+    {
+        "question": "Which empire was ruled by Julius Caesar?",
+        "answer": "The Roman Empire"
+    },
+    {
+        "question": "Who was the queen of Egypt famously associated with Julius Caesar and Mark Antony?",
+        "answer": "Cleopatra"
+    },
+    {
+        "question": "Which war was fought between the North and South regions of the United States?",
+        "answer": "The American Civil War"
+    },
+    {
+        "question": "Who led the Indian independence movement through nonviolent resistance?",
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "question": "Which country was formerly known as Persia?",
+        "answer": "Iran"
+    },
+    {
+        "question": "Which wall divided East and West Germany during the Cold War?",
+        "answer": "The Berlin Wall"
+    },
+    {
+        "question": "In which century did the Renaissance begin?",
+        "answer": "The 14th century"
+    },
+    {
+        "question": "What is the opposite of 'hot'?",
+        "answer": "Cold"
+    },
+    {
+        "question": "What is the opposite of 'big'?",
+        "answer": "Small"
+    },
+    {
+        "question": "What is the opposite of 'happy'?",
+        "answer": "Sad"
+    },
+    {
+        "question": "What is the opposite of 'fast'?",
+        "answer": "Slow"
+    },
+    {
+        "question": "What is the opposite of 'day'?",
+        "answer": "Night"
+    },
+    {
+        "question": "What is the opposite of 'up'?",
+        "answer": "Down"
+    },
+    {
+        "question": "What is the opposite of 'open'?",
+        "answer": "Closed"
+    }
+]

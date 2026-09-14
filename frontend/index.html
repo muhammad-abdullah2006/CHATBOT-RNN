@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>General Knowledge Chatbot | M. Abdullah</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="app-layout">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="brand">
+                <i class="fa-solid fa-brain brand-icon"></i>
+                <h2>General Knowledge Chatbot</h2>
+            </div>
+
+            <div class="creator-card">
+                <div class="avatar">MA</div>
+                <div class="creator-details">
+                    <h3>M. Abdullah</h3>
+                    <p class="tag"><i class="fa-solid fa-graduation-cap"></i> UCP Student</p>
+                    <p class="email"><i class="fa-solid fa-envelope"></i> abdull14ah15@gmail.com</p>
+                </div>
+            </div>
+
+            <div class="project-info">
+                <h4><i class="fa-solid fa-circle-info"></i> About Project</h4>
+                <p>This is my first AI chatbot built using <strong>RNN & TensorFlow</strong>! It's trained on a General Knowledge dataset to answer common questions accurately.</p>
+            </div>
+
+            <div class="sample-questions">
+                <h4><i class="fa-solid fa-lightbulb"></i> Try Asking</h4>
+                <ul>
+                    <li onclick="useSample(this)">What is the capital of Pakistan?</li>
+                     <li onclick="useSample(this)">Which is the largest mountain?</li>
+                    <li onclick="useSample(this)">What is the chemical symbol for Aluminium?</li>
+                </ul>
+            </div>
+        </aside>
+
+        <!-- Main Chat Area -->
+        <main class="chat-container">
+            <header class="chat-header">
+                <div>
+                    <h1>General Knowledge Chatbot</h1>
+                    <span class="status-badge"><span class="status-dot"></span> Model Active</span>
+                </div>
+            </header>
+
+            <div class="chat-history" id="chatHistory">
+                <div class="message bot-message">
+                    <div class="msg-avatar"><i class="fa-solid fa-robot"></i></div>
+                    <div class="msg-bubble">
+                        Hello! 👋 I am M. Abdullah's first RNN-powered chatbot. Ask me any General Knowledge question!
+                    </div>
+                </div>
+            </div>
+
+            <!-- Dedicated Answer Box Display -->
+            <div class="answer-display-card">
+                <div class="answer-header">
+                    <i class="fa-solid fa-reply"></i>
+                    <span>Latest Predicted Answer</span>
+                </div>
+                <div class="answer-text" id="answerBox">
+                    Your predicted answer will appear here in real-time...
+                </div>
+            </div>
+
+            <div class="chat-input-area">
+                <div class="input-wrapper">
+                    <input 
+                        type="text" 
+                        id="question" 
+                        placeholder="Type a General Knowledge question..."
+                        onkeypress="handleKeyPress(event)"
+                    >
+                    <button id="sendBtn" onclick="askQuestion()">
+                        <i class="fa-solid fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
