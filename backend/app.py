@@ -9,6 +9,12 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 app = Flask(__name__)
 CORS(app)  # Enables requests from frontend (index.html)
 
+# --- Bypass ngrok free-tier warning page on mobile ---
+@app.after_request
+def add_ngrok_header(response):
+    response.headers["ngrok-skip-browser-warning"] = "true"
+    return response
+
 # --- Helper: Text Normalization ---
 def clean_text(text):
     text = text.lower()
