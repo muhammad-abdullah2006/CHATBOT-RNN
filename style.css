@@ -1,18 +1,21 @@
+/* ====== RESET & BASE ====== */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -webkit-tap-highlight-color: transparent;
 }
 
 html, body {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     overflow: hidden;
     background-color: #0f172a;
     color: #f8fafc;
 }
 
+/* ====== APP LAYOUT (LAPTOP / DESKTOP) ====== */
 .app-layout {
     display: flex;
     width: 100vw;
@@ -20,7 +23,7 @@ html, body {
     background: #1e293b;
 }
 
-/* Sidebar */
+/* ====== SIDEBAR ====== */
 .sidebar {
     width: 300px;
     height: 100vh;
@@ -31,6 +34,7 @@ html, body {
     gap: 15px;
     border-right: 1px solid #334155;
     flex-shrink: 0;
+    overflow-y: auto;
 }
 
 .brand {
@@ -117,6 +121,7 @@ html, body {
     color: #cbd5e1;
     cursor: pointer;
     border: 1px solid #334155;
+    transition: all 0.2s ease;
 }
 
 .sample-questions li:hover {
@@ -124,18 +129,20 @@ html, body {
     color: #38bdf8;
 }
 
-/* Chat Section */
+/* ====== CHAT SECTION ====== */
 .chat-container {
     flex: 1;
     height: 100vh;
     display: flex;
     flex-direction: column;
     background: #1e293b;
+    min-width: 0;
 }
 
 .chat-header {
     padding: 15px 20px;
     border-bottom: 1px solid #334155;
+    flex-shrink: 0;
 }
 
 .chat-header h1 {
@@ -156,6 +163,12 @@ html, body {
     height: 8px;
     background: #4ade80;
     border-radius: 50%;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
 }
 
 .chat-history {
@@ -204,6 +217,8 @@ html, body {
     border-radius: 12px;
     font-size: 14px;
     line-height: 1.5;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .user-message .msg-bubble {
@@ -219,13 +234,14 @@ html, body {
     border: 1px solid #334155;
 }
 
-/* Dedicated Answer Card */
+/* ====== ANSWER CARD ====== */
 .answer-display-card {
     margin: 0 20px 15px 20px;
     padding: 14px 18px;
     background: #0f172a;
     border: 1px solid #38bdf8;
     border-radius: 12px;
+    flex-shrink: 0;
 }
 
 .answer-header {
@@ -245,11 +261,12 @@ html, body {
     font-weight: 600;
 }
 
-/* Input Area */
+/* ====== INPUT AREA ====== */
 .chat-input-area {
     padding: 15px 20px;
     border-top: 1px solid #334155;
     background: #1e293b;
+    flex-shrink: 0;
 }
 
 .input-wrapper {
@@ -268,6 +285,7 @@ html, body {
     outline: none;
     color: #fff;
     font-size: 14px;
+    min-width: 0;
 }
 
 .input-wrapper button {
@@ -278,9 +296,186 @@ html, body {
     border-radius: 8px;
     cursor: pointer;
     font-weight: bold;
+    transition: background 0.2s ease;
 }
 
 .input-wrapper button:hover {
     background: #0284c7;
     color: #fff;
+}
+
+/* =================================================== */
+/* =============== MOBILE RESPONSIVE ================= */
+/* =================================================== */
+@media (max-width: 768px) {
+
+    /* Stack sidebar on top of chat */
+    .app-layout {
+        flex-direction: column;
+    }
+
+    /* Sidebar becomes a compact top bar */
+    .sidebar {
+        width: 100%;
+        height: auto;
+        max-height: 45vh;
+        padding: 12px;
+        gap: 10px;
+        border-right: none;
+        border-bottom: 1px solid #334155;
+        overflow-y: auto;
+    }
+
+    .brand h2 {
+        font-size: 14px;
+    }
+
+    .brand-icon {
+        font-size: 20px;
+    }
+
+    .creator-card {
+        padding: 10px;
+        gap: 10px;
+    }
+
+    .avatar {
+        width: 34px;
+        height: 34px;
+        font-size: 12px;
+    }
+
+    .creator-details h3 { font-size: 13px; }
+    .creator-details .tag { font-size: 10px; }
+    .creator-details .email { font-size: 9px; }
+
+    .project-info p {
+        font-size: 11px;
+        line-height: 1.3;
+    }
+
+    /* Sample questions become horizontal chips */
+    .sample-questions ul {
+        flex-direction: row;
+        overflow-x: auto;
+        gap: 8px;
+        padding-bottom: 4px;
+        scrollbar-width: none;
+    }
+    .sample-questions ul::-webkit-scrollbar {
+        display: none;
+    }
+
+    .sample-questions li {
+        white-space: nowrap;
+        font-size: 11px;
+        padding: 6px 10px;
+        flex-shrink: 0;
+    }
+
+    /* Chat takes remaining height */
+    .chat-container {
+        height: auto;
+        flex: 1;
+        min-height: 0;
+    }
+
+    .chat-header {
+        padding: 12px 15px;
+    }
+
+    .chat-header h1 {
+        font-size: 15px;
+    }
+
+    .status-badge {
+        font-size: 11px;
+    }
+
+    .chat-history {
+        padding: 15px;
+        gap: 12px;
+    }
+
+    .message {
+        max-width: 90%;
+        gap: 8px;
+    }
+
+    .msg-avatar {
+        width: 28px;
+        height: 28px;
+        font-size: 11px;
+    }
+
+    .msg-bubble {
+        font-size: 13px;
+        padding: 9px 12px;
+    }
+
+    .answer-display-card {
+        margin: 0 12px 10px 12px;
+        padding: 12px 14px;
+    }
+
+    .answer-header {
+        font-size: 11px;
+    }
+
+    .answer-text {
+        font-size: 14px;
+    }
+
+    .chat-input-area {
+        padding: 10px 12px;
+    }
+
+    .input-wrapper {
+        padding: 5px 10px;
+    }
+
+    .input-wrapper input {
+        font-size: 14px;
+        padding: 6px 0;
+    }
+
+    .input-wrapper button {
+        padding: 8px 14px;
+        font-size: 14px;
+    }
+}
+
+/* ====== VERY SMALL PHONES ====== */
+@media (max-width: 400px) {
+    .sidebar {
+        max-height: 50vh;
+        padding: 10px;
+    }
+
+    .brand h2 { font-size: 13px; }
+    .brand-icon { font-size: 18px; }
+
+    .chat-header h1 { font-size: 14px; }
+
+    .msg-bubble { font-size: 12px; }
+    .answer-text { font-size: 13px; }
+}
+
+/* ====== LARGE DESKTOP (optional polish) ====== */
+@media (min-width: 1400px) {
+    .sidebar {
+        width: 340px;
+    }
+
+    .chat-header h1 {
+        font-size: 20px;
+    }
+
+    .msg-bubble {
+        font-size: 15px;
+    }
+
+    .answer-text {
+        font-size: 16px;
+    }
 }
