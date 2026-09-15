@@ -54,13 +54,6 @@ RNN/
 
 ## Getting Started
 
-### Prerequisites
-
-- Python 3.10+
-- TensorFlow / Keras
-- Flask
-- NumPy
-
 Install dependencies:
 
 ```bash
